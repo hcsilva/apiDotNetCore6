@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qUfCuwDG3Awb/0fGv1qUZyfT8bUgb6oLWUBFfE66NtuXq+WiXW+C+eAADxreFmKipyA2AtpyHHNJo6HivUWflw==",
+  "success": true,
+  "projectFilePath": "C:\\estudos\\CSharp\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henri\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\henri\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\henri\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
